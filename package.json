@@ -1,0 +1,15 @@
+{
+  "name": "atividade-avaliativa",
+  "version": "1.0.0",
+  "description": "Trabalho de PDM.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve . -p 3003"
+  },
+  "author": "Alex Garcia Siqueira Santos, Liz Fujimori Dan",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
