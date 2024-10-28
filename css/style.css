@@ -13,3 +13,21 @@ html, .fullscreen {
 .container {
     margin: auto;
 }
+
+table{
+    border: none;
+  }
+  td#aulas{
+    background-color:  #c9a0ff;
+  }
+  #intervalo1{
+    background-color: #c9a0ff;
+  }
+  th{
+    background-color: #ffc0fc;
+    color: #3a3a3a;
+    height: 50px;
+  }
+  table {
+    text-align: center;
+  }
