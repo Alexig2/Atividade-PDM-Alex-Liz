@@ -10,8 +10,13 @@ html, .fullscreen {
     width: 100%;
 }
 
+.titulo {
+    color:#ff52f6;
+}
+
 .container {
     margin: auto;
+    text-align: center;
 }
 
 table{
@@ -42,4 +47,21 @@ table{
 
 .pe {
   background-color:#d9befd;
+}
+
+.card {
+  background-color: white;
+  border-radius: 20px;
+  padding: 40px;
+}
+
+a {
+  text-decoration: none;
+  color:#913cff;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.home {
+  background-color: #913cff;
 }
