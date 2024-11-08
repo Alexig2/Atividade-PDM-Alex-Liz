@@ -1,63 +1,66 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-html, .fullscreen {
-    display: flex;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    width: 100%;
+html,
+.fullscreen {
+  display: flex;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
 .titulo {
-    color:#ff52f6;
+  color: #ff52f6;
 }
 
 .container {
-    margin: auto;
-    text-align: center;
+  margin: auto;
+  text-align: center;
 }
 
-table{
-    border: none;
-  }
-  td#aulas{
-    background-color:  #c9a0ff;
-  }
-  #intervalo1{
-    background-color: #c9a0ff;
-  }
-  th{
-    background-color: #ffc0fc;
-    color: #3a3a3a;
-    height: 50px;
-  }
-  table {
-    text-align: center;
-  }
+table {
+  border: none;
+}
+td#aulas {
+  background-color: #c9a0ff;
+}
+#intervalo1 {
+  background-color: #c9a0ff;
+}
+th {
+  background-color: #ffc0fc;
+  color: #3a3a3a;
+  height: 50px;
+}
+table {
+  text-align: center;
+}
 
 .ead {
-    background-color: #fffec7;
-  }
+  background-color: #fffec7;
+}
 
 .aula {
-  background-color:#d9befd;
+  background-color: #d9befd;
 }
 
 .pe {
-  background-color:#d9befd;
+  background-color: #d9befd;
 }
 
 .card {
   background-color: white;
   border-radius: 20px;
   padding: 40px;
+  margin-left: 530px;
+  margin-top: 200px;
 }
 
 a {
   text-decoration: none;
-  color:#913cff;
+  color: #913cff;
   font-weight: bold;
   font-size: larger;
 }
